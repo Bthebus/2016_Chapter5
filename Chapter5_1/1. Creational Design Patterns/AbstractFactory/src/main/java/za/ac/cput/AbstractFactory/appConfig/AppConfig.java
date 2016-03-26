@@ -10,6 +10,7 @@ import za.ac.cput.AbstractFactory.factories.FruitFactory;
  * Email        : Bthebus2@gmail.com
  * Date Created : 2016-03-26
  */
+@Configuration 
 public class AppConfig {
 
     private AbstractFactory abstractFactory = new AbstractFactory();
