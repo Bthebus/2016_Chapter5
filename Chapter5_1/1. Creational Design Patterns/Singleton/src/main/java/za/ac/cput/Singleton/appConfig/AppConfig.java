@@ -1,5 +1,6 @@
 package za.ac.cput.Singleton.appConfig;
 
+import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Bean;
 import za.ac.cput.Singleton.impl.Sprinter;
 

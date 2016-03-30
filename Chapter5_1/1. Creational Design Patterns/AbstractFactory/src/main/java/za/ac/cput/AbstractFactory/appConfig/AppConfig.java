@@ -1,5 +1,6 @@
 package za.ac.cput.AbstractFactory.appConfig;
 
+import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Bean;
 import za.ac.cput.AbstractFactory.Fruit;
 import za.ac.cput.AbstractFactory.factories.AbstractFactory;

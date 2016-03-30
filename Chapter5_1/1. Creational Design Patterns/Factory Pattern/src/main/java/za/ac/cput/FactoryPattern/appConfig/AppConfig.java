@@ -1,5 +1,6 @@
 package za.ac.cput.FactoryPattern.appConfig;
 
+import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Bean;
 import za.ac.cput.FactoryPattern.factories.AnimalFactory;
 import za.ac.cput.FactoryPattern.services.Animal;
