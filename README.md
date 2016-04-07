@@ -1,7 +1,14 @@
-# 2016_Chapter5
-#Java Design patterns#
-#1. Creational design patterns
-#2. Structural design patterns
-#3. Behavioral design patterns
-Technical Programming2: 2016_Chapter5 
+# ShoppingCartBackend
+Java Backend to shopping cart android application
 
+#How it works
+Registered users are allowed to place orders for selected items via the android application. Order gets created with ID and gets assigned to the user. 
+
+Quantities are depleted when orders are created. 
+
+Transaction history available to users.
+
+
+#More you say ...
+Application allows employee information to be stored.
+Verified users have access to the information.
